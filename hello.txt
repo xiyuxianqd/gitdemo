@@ -11,4 +11,6 @@ hello xiyuxian hello git
 hello xiyuxian hello git
 hello xiyuxian hello git
 hello xiyuxian hello git
-hello xiyuxian hello git --->1/25pass
+hello xiyuxian hello git --->1/25 masterpass1
+hello xiyuxian hello git --->1/26 hotpass2
+
